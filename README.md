@@ -214,9 +214,11 @@ The system achieves an average response time of 200ms, meeting our real-time per
 ## Usage Guide
 
 1. Ensure all dependencies are installed (TensorFlow, Pandas, NumPy, TensorFlow Hub).
-2. Run the `Automated Health Monitoring System.py` script.
-3. Follow the prompts to answer the mental health questionnaire.
-4. Receive a mental health score and personalized advice based on your responses.
+   ```
+   pip install -r requirements.txt
+3. Run the `Automated Health Monitoring System.py` script.
+4. Follow the prompts to answer the mental health questionnaire.
+5. Receive a mental health score and personalized advice based on your responses.
 
    output Examlple
     ```
