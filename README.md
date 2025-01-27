@@ -218,6 +218,26 @@ The system achieves an average response time of 200ms, meeting our real-time per
 3. Follow the prompts to answer the mental health questionnaire.
 4. Receive a mental health score and personalized advice based on your responses.
 
+   output Examlple
+    ```
+   Answer the following questions to evaluate your mental health:
+   How would you describe your experience at your workplace/college/school in the past few days? 
+   > Work has been stressful but manageable.
+   How do you like to spend your leisure time? How do you feel after it?
+   > I enjoy reading books; it relaxes me.
+   Life has its ups and downs. How do you manage your emotions after failures? 
+   > I take long walks to clear my mind.
+   Are there any improvements/decline in your salary/grades? 
+   > Yes, I got a raise recently.
+   Any recent unpleasant experience that you would like to share?
+   > I had a minor disagreement with a colleague.
+   In a broad sense, how would you describe the way your life is going on?
+   > Life has been a rollercoaster but good overall.
+
+   Your mental health score is: 78.23
+   Your mental health looks great! Continue enjoying life and try to help others who are struggling with their mental health.
+
+
 ## Future Enhancements
 
 1. Integration with social media platforms for broader data collection
