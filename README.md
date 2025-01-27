@@ -223,5 +223,3 @@ This system is designed as a supportive tool and should not replace professional
 ## Acknowledgments
 
 We extend our gratitude to the open-source community, particularly the TensorFlow and TensorFlow Hub teams, for providing the tools and resources that made this project possible.
-```
-
