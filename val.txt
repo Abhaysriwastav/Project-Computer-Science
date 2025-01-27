@@ -1,0 +1,4 @@
+text;emotion
+It going ohk;nuetral
+very well but its hard sometimes;nuetral 
+cant carry on;struggling
